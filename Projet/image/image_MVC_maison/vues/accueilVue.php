@@ -1,0 +1,1 @@
+<h1>Ici l'accueil</h1>
